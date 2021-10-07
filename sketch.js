@@ -9,7 +9,7 @@ var player, playerBase, playerArcher;
 var baseimage;
 
 function preload() {
-  backgroundImg = loadImage("background.png");
+  backgroundImg = loadImage("bg.png");
   baseimage = loadImage("base.png");
   playerimage = loadImage("player.png");
 }
